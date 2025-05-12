@@ -1,0 +1,11 @@
+com\mycompany\kasirproperti\service\TransaksiService.class
+com\mycompany\kasirproperti\service\PenyewaService.class
+com\mycompany\kasirproperti\service\PropertiService.class
+com\mycompany\kasirproperti\model\Apartemen.class
+com\mycompany\kasirproperti\Main.class
+com\mycompany\kasirproperti\model\Penyewa.class
+com\mycompany\kasirproperti\model\Properti.class
+com\mycompany\kasirproperti\model\Transaksi.class
+com\mycompany\kasirproperti\service\Database.class
+com\mycompany\kasirproperti\model\Aset.class
+com\mycompany\kasirproperti\model\Rumah.class
