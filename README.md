@@ -83,7 +83,8 @@ Properti p = jenis.equalsIgnoreCase("Rumah") ?
 
 ### 4. Abstract
 <p>Menyederhanakan kompleksitas program dengan hanya menampilkan detail yang penting dan menyembunyikan detail lainnya.</p>
-#### Implementasi Polymorphism dalam Proyek:
+
+#### Implementasi Abstract dalam Proyek:
 <ul>
   <li>Kelas Aset adalah abstract class, dengan method abstrak hitungPajak().</li>
 
@@ -98,5 +99,5 @@ public abstract class Aset {
 ## Demo Proyek
 <ul>
   <li>Github: <a href="https://github.com/tech0608/UTS_PBO2_TIF-RP-23-CNS-A_23552011045">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/46Cp16eqOAg">Youtube</a></li>
 </ul>
